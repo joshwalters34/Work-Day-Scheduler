@@ -10,7 +10,7 @@ My motivation for this website was to create a schedule to allow users to better
 
 ### Website Address
 
-Visit my [Website](https://joshwalters34.github.io/Work-Day-Scheduler/
+Visit my [Website](https://joshwalters34.github.io/Work-Day-Scheduler/)
 
 ### Repository
 
