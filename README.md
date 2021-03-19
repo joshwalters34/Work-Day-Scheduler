@@ -15,3 +15,6 @@ Visit my [Website](https://joshwalters34.github.io/Work-Day-Scheduler/)
 ### Repository
 
 View my [GitHub_Repository](https://github.com/joshwalters34/Work-Day-Scheduler)
+
+### Technologies
+HTML5, CSS3, Bootstrap, jquery, Javascript, Moment.js
